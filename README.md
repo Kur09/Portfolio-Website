@@ -30,19 +30,13 @@ You can view a live demo of the portfolio website [here](#).
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [repository_url]
+   git clone [https://github.com/Kur09/Portfolio-Website]
+
 
 It looks like you've provided the HTML code for a portfolio website. To create a README file for your portfolio project, you can provide information about the project, its purpose, features, and how to set it up. Below is a sample README file for your portfolio project:
 
-markdown
-Copy code
-
-   ```bash
-   git clone [repository_url]
-
 ## Usage
-To view the website locally, simply open the 'index.html' file in your web browser.
-
+You can use this portfolio website as a template for showcasing your own skills and projects. Customize the content and images to reflect your personal information and work. You can also modify the styling and layout by editing the CSS in the style.css file.
 
 ## Technologies Used
 HTML5
@@ -54,4 +48,9 @@ Font Awesome
 Typed.js
 
 ## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
 
